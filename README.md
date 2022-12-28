@@ -1,4 +1,4 @@
-!(https://github.com/kungfuproger/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![satus bage](https://github.com/kungfuproger/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 # api_yamdb
 Проект YaMDb собирает отзывы (Review) пользователей на произведения (Title).
