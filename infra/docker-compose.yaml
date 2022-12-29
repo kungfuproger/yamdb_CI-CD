@@ -8,7 +8,7 @@ services:
     env_file:
       - ./.env
   web:
-    image: kungfuproger/yamdb:v1.0
+    image: kungfuproger/yamdb:latest
     restart: always
     volumes:
       - static_value:/app/static/
