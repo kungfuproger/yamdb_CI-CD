@@ -1,6 +1,9 @@
 name: Django-app workflow
 
-on: [push]
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   tests:
@@ -52,6 +55,7 @@ jobs:
         key: ${{ secrets.SSH_KEY }}
         passphrase: ${{ secrets.PASSPHRASE }}
         script: |
+          sudo dosker pull kungfuproger/yamdb:latest
           sudo docker-compose stop
           sudo docker-compose rm web
           touch .env
