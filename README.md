@@ -1,6 +1,6 @@
 ![satus bage](https://github.com/kungfuproger/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
-Групповой проект с загрузкой из Docker, + использование GitHub Actions для деплоя.
+Исходник: Групповой проект. + загрузка из Docker, + использование GitHub Actions для деплоя.
 
 # api_yamdb
 Проект YaMDb собирает отзывы (Review) пользователей на произведения (Title).
