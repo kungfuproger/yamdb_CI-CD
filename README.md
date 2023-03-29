@@ -1,6 +1,6 @@
 ![satus bage](https://github.com/kungfuproger/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
-Исходник: Групповой проект. 
+Исходник: YaMDb (групповой проект) 
 
 Добавлено: загрузка из docker-compose, Action для автоматизации тестирования и деплоя на сервер.
 
